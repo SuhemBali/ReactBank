@@ -10,7 +10,7 @@ Best Practices: Industry-recommended React development practices.
 
 **Getting Started**
 
-1. Clone the repository - git clone https://github.com/your-username/your-repo.git
+1. Clone the repository - gh repo clone SuhemBali/ReactBank
 
 2. Install dependencies - npm install
 
